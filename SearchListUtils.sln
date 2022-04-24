@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchListUtils", "SearchListUtils\SearchListUtils.csproj", "{4E06526D-E0E4-4E63-9515-96D378AA7EF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E06526D-E0E4-4E63-9515-96D378AA7EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E06526D-E0E4-4E63-9515-96D378AA7EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E06526D-E0E4-4E63-9515-96D378AA7EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E06526D-E0E4-4E63-9515-96D378AA7EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02AC64A0-1E0F-472F-905F-568DAB3867C1}
+	EndGlobalSection
+EndGlobal
